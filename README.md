@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TMDb PHP API #
 
 ## Why this class ##
@@ -239,3 +240,9 @@ This class throws an TMDbException when an error is in the class is made by the 
 This plugin has a [BSD License](http://www.opensource.org/licenses/bsd-license.php). You can find the license in license.txt that is included with class-package
 
 ![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f811fcf46375695910a6d5987d15a55f)
+=======
+IMDb-PHP-API
+============
+
+PHP Class for using TMDb (themoviedb.org) API. Because of IMDB hasn't an API we provide this PHP5 class. It's pretty easy to recieve all information about a movie or an actor. No scraping needed.
+>>>>>>> origin/master
